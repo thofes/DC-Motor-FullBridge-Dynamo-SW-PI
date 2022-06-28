@@ -1,0 +1,33 @@
+Circuit: * C:\Users\walln\Documents\MCI\Simulationsmethoden\Projekt\Abgabe\LTspice\DC_Motor_Simulation.asc
+
+WARNING: Less than two connections to node EFF.  This node is used by B3.
+WARNING: Less than two connections to node RPM.  This node is used by E:X1:1.
+Per .tran options, skipping operating point for transient analysis.
+Ignoring empty pin current: Ix(x1:ic)
+Ignoring empty pin current: Ix(x1:x3:in1)
+Ignoring empty pin current: Ix(x1:x3:in2)
+Ignoring empty pin current: Ix(x1:x4:in1)
+Ignoring empty pin current: Ix(x1:x4:in2)
+Ignoring empty pin current: Ix(x1:x1:in1)
+Ignoring empty pin current: Ix(x1:x1:in2)
+Ignoring empty pin current: Ix(x1:x2:in)
+Ignoring empty pin current: Ix(x1:x2:i.c.)
+Ignoring empty pin current: Ix(x1:x5:in)
+
+Date: Fri Jul 16 08:14:24 2021
+Total elapsed time: 4.385 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 257097
+traniter = 257097
+tranpoints = 60836
+accept = 45787
+rejected = 15049
+matrix size = 44
+fillins = 10
+solver = Alternate
+Matrix Compiler1: 1.63 KB object code size  0.3/0.2/[0.2]
+Matrix Compiler2: 2.85 KB object code size  0.2/0.4/[0.2]
+
